@@ -1,0 +1,1 @@
+server: python bott.py
